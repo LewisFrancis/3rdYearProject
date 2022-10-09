@@ -1,0 +1,1 @@
+To run you will have to change some of the locations of the required files as well as start off in the login page
